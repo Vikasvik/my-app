@@ -1,5 +1,5 @@
 test file   
-EDITED THIS FILE now in develop
+EDITED THIS FILE now IN develop
                          
 
 EDITED
