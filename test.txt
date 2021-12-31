@@ -1,11 +1,2 @@
-New Master
-Added now
-EDITED THIS FILE now IN develop
-                         
-NOIW
-EDITED
-
-test file   PROD
-EDITED THIS FILE now in PROD
-                         
+This file is in prod
 
